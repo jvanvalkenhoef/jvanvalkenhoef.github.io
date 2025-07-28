@@ -1,0 +1,14 @@
+---
+title: Anomaly detection 
+subtitle: Detect irregularities 
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: engine.jpg
+thumbnail: thumbnail_engine.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Early detection of anomalies is crucial for preventing potential issues on board. Our advanced anomaly detection capabilities help you identify unusual patterns and outliers in your vessel's data, allowing you to take proactive measures to prevent or mitigate the impact. By monitoring your vessel's systems and performance in real-time, you can detect potential problems before they become incidents, reducing the risk of downtime, and ensuring the safety of your crew and cargo.
+---

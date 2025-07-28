@@ -1,0 +1,14 @@
+---
+title: Alerting 
+subtitle: Real time alerts 
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: gauges_and_pipes.jpg
+thumbnail: thumbnail_gauges_and_pipes.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: When it comes to vessel operations, timely alerts can be a lifesaver. Our real-time alerting system ensures you're always informed about critical issues, allowing you to take immediate action to minimize impact. By setting up customized alerts, you can stay on top of vessel performance, receive notifications when specific conditions are met, and respond quickly to issues such as system failures, weather changes, or navigation errors.
+---

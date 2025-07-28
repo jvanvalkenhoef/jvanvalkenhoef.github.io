@@ -1,0 +1,14 @@
+---
+title: Ad hoc trouble shooting
+subtitle: Queryless investigations 
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: ship_and_containers_topview.jpg 
+thumbnail: thumbnail_ship_and_containers_topview.jpg 
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: When unexpected issues arise on board, every minute counts. Our ad hoc trouble shooting solution empowers you to rapidly investigate and resolve problems, minimizing downtime and optimizing vessel performance. With our intuitive, query-free investigation tool, you can easily explore your vessel's data, identify root causes, and take corrective action to get back on course. By quickly pinpointing the source of the issue, you can reduce the risk of further complications, ensure crew safety, and maintain compliance with regulatory requirements.
+---
